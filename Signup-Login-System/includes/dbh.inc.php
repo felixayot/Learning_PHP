@@ -3,7 +3,7 @@
 $host = "localhost";
 $dbname = "phptutorial";
 $dbusername = "root";
-$dbpassword = "yolo1212";
+$dbpassword = "";
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $dbusername, $dbpassword);

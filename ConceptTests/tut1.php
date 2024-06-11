@@ -10,8 +10,8 @@
 <?php
 
 // Variables
-$name =  "Felix Ayot";
-$age = 28;
+$name =  "John Doe";
+$age = 35;
 $occupation = "Software Engineer";
 echo "<div>";
 echo "<p>"."Hello there!\nMy name is $name and I'm $age years old. My full time occupation is a $occupation.\nI'm so glad to meet you.\n"."</p>";

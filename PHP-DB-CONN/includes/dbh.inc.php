@@ -3,7 +3,7 @@
 // PDO_MYSQL Data Source Name (DSN) for connecting to a MySQL database
 $dsn = "mysql:host=localhost;dbname=phptutorial";
 $dbusername = "root";
-$dbpassword = "yolo1212";
+$dbpassword = "";
 
 try {
     $pdo = new PDO($dsn, $dbusername, $dbpassword);
